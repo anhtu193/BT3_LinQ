@@ -1,0 +1,10 @@
+E:\Workspace\BT3_LinQ\BT3_LinQ\bin\Debug\BT3_LinQ.exe.config
+E:\Workspace\BT3_LinQ\BT3_LinQ\bin\Debug\BT3_LinQ.exe
+E:\Workspace\BT3_LinQ\BT3_LinQ\bin\Debug\BT3_LinQ.pdb
+E:\Workspace\BT3_LinQ\BT3_LinQ\obj\Debug\BT3_LinQ.csproj.AssemblyReference.cache
+E:\Workspace\BT3_LinQ\BT3_LinQ\obj\Debug\BT3_LinQ.Form1.resources
+E:\Workspace\BT3_LinQ\BT3_LinQ\obj\Debug\BT3_LinQ.Properties.Resources.resources
+E:\Workspace\BT3_LinQ\BT3_LinQ\obj\Debug\BT3_LinQ.csproj.GenerateResource.cache
+E:\Workspace\BT3_LinQ\BT3_LinQ\obj\Debug\BT3_LinQ.csproj.CoreCompileInputs.cache
+E:\Workspace\BT3_LinQ\BT3_LinQ\obj\Debug\BT3_LinQ.exe
+E:\Workspace\BT3_LinQ\BT3_LinQ\obj\Debug\BT3_LinQ.pdb
